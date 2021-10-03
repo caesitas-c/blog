@@ -5,7 +5,8 @@ author: Frederick Douglass
 editor: Alex Gil
 rights: Public Domain
 source: Project Guttenberg
-publication-date: 2016
+categories: 原生示例
+publication-date: 2017-07-27 15:46
 toc:
 - Title Page
 - Preface

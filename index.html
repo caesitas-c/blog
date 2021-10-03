@@ -20,15 +20,20 @@ title: "Ed."
 <hr>
 
 <div class="toc">
-  <h2>sample texts</h2>
+  <h2>最新的文章</h2>
   <ul class="texts">
-  {% for item in site.texts %}
-
-    <li class="text-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-    </li>
-  {% endfor %}
-  </ul>
+    {% assign texts = site.documents | sort | reverse | slice: 0, 10 %}
+    {% for item in texts %}
+    {% if item.categories contains "hidden" %}
+    <!-- do nothing -->
+    {% else %}
+      <li class="text-title">
+        <a href="{{ site.baseurl }}{{ item.url }}">
+          {{ item.title }}
+        </a>
+        <span class="rating">{{ item.rating }}</span>
+      </li>
+    {% endif %}
+    {% endfor %}
+    </ul>
 </div>
