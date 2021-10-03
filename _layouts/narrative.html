@@ -9,6 +9,15 @@ layout: default
   {% else %}
   <p class="byline"> {{ site.author.name }}</p>
   {% endif %}
+
+  <ul class="abstractline">
+    {% if page.rating-note %}
+    <li><strong>{{ page.rating }}</strong>： {{page.rating-note}}</li>
+    {% else %}
+    <li><strong>{{ page.rating }}</strong></li>
+    {% endif %}
+    {{ page.abstract }}
+  </ul>
   
   {{ content }}
 </article>
