@@ -25,8 +25,12 @@ encoding: utf-8
 
 # Collections for texts
 collections:
-  texts:
+  A:
     output: true
+    display: "分区A"
+    category: 
+      - "原生示例" 
+      - "卷一"
 
 # Markdown specs
 markdown: kramdown
@@ -42,13 +46,10 @@ kramdown:
 
 # Exclusions from the final site
 exclude:
-  - optional
   - vendor
   - ed..gemspec
   - Gemfile
   - Gemfile.lock
-  - backstop_data
-  - backstop.json
 
 # Theme
 # (Used for local or custom-server deployments)
