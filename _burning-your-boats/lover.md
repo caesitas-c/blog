@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: 情人
-category: UKS國設短篇
+category: 焚舟紀一
 publication-date: 2021-10-04 23:15
 
 rating: NC-15
