@@ -11,19 +11,26 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="#" data-proofer-ignore>Return to Top</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">首頁</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="#" data-proofer-ignore>返回頂端</a>
     {% for node in page.toc %}
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %} sidebar-nav-item-toc" href="#{{ node | slugify }}">{{ node }}</a>
     {% endfor %}
   </nav>
 
   <div class="sidebar-item">
+    {% if page.editor %}
+    <p>由 {{ page.editor }} 於 {{ site.time | date: '%Y' }} 年編輯。</p>
+    {% else %}
+      {% if page.author %}
+      <p>由 {{ page.author }} 於 {{ site.time | date: '%Y' }} 年編輯。</p>
+      {% else %}
+      <p>由 {{ site.author.name }} 於 {{ site.time | date: '%Y' }} 年編輯。</p>
+      {% endif %}
+    {% endif %}
+
     <p>
-     Edited by {{ page.editor }}, {{ site.time | date: '%Y' }}.
-    </p>
-    <p>
-      Built with <a href="https://minicomp.github.io/ed/">Ed.</a> Distributed under an MIT license.
+      本網站是在使用MIT許可證的 <a href="https://minicomp.github.io/ed/">Ed.</a> 基礎上開發的。
     </p>
   </div>
 </aside>

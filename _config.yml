@@ -1,17 +1,17 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               這裡是網站的總標題
+tagline:             '這里寫的是tagline.'
+description:         '這裡可以寫網站的描述。'
 url:                 'https://caesitas-c.github.io'
 baseurl:             '/blog'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              這是網站作者的名字
+  url:               這裡可以填寫，也可以刪除這一行
+  email:             這裡可以填寫，也可以刪除這一行
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
@@ -25,13 +25,28 @@ encoding: utf-8
 
 # Collections for texts
 collections:
-  A:
+  kojidan:
     output: true
-    display: "分区A"
+    display: "古事談"
     category: 
       - "原生示例" 
       - "卷一"
-
+  burning-your-boats:
+    output: true
+    display: "焚舟紀"
+    category: 
+      - "焚舟紀一" 
+  kikigakisyou:
+    output: true
+    display: "聞書抄"
+    category: 
+      - "聞書抄一"
+  kaleidoscope:
+    output: true
+    display: "鏡華錄"
+    category: 
+      - "鏡華錄一"
+  
 # Markdown specs
 markdown: kramdown
 
