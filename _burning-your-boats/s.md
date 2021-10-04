@@ -4,7 +4,7 @@ title: 家庭短片/1946
 category: 焚舟紀一
 publication-date: 2021-10-04 23:15
 
-rating: NC-15
+rating: G
 rating-note:
 abstract: "<li>三月五日，簽UKUSA Agreement和邱吉爾發表鐵幕演說那天</li>
 <li>終於結婚了就是說</li>"
