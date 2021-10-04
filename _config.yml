@@ -1,17 +1,16 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               這裡是網站的總標題
+title:               末法時代
 tagline:             '這里寫的是tagline.'
-description:         '這裡可以寫網站的描述。'
+description:         'A private house of beauty and evil.'
 url:                 'https://caesitas-c.github.io'
 baseurl:             '/blog'
 
 # About/contact
 author:
-  name:              這是網站作者的名字
-  url:               這裡可以填寫，也可以刪除這一行
-  email:             這裡可以填寫，也可以刪除這一行
+  name:              Caesitas
+  email:             272402816@qq.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
