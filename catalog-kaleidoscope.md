@@ -2,7 +2,7 @@
 layout: page
 title: 聞書抄
 toc:
-- 聞書抄一 
+- 聞
 
 ---
 
