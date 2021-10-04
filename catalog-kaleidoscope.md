@@ -10,13 +10,13 @@ toc:
 
 <div class="toc">
 
-  {% assign collection_kikigakisyou = site.collections | where: "label", "kikigakisyou" | first %}
-  {% assign categories = collection_kikigakisyou.category %}
+  {% assign collection_kaleidoscope = site.collections | where: "label", "kaleidoscope" | first %}
+  {% assign categories = collection_kaleidoscope.category %}
 
 			{% for category in categories %}
         <h3 id="{{ category }}"> {{ category }} </h3>
           <ul class="texts">
-            {% assign posts_reverse = site.kikigakisyou | where: "category", category | sort | reverse %}
+            {% assign posts_reverse = site.kaleidoscope | where: "category", category | sort | reverse %}
 				    {% for post in posts_reverse %}
 			  	    {% if post.url != Nil %}
                 <li class="text-title">
