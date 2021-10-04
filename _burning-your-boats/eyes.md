@@ -7,7 +7,7 @@ publication-date: 2021-10-04 23:15
 rating: NC-15
 rating-note:
 abstract: "<li>18世紀中</li>
-<li>七年戰爭後的某種急轉直下</li>"
+<li>關於七年戰爭後的某種急轉直下</li>"
 
 ---
 
