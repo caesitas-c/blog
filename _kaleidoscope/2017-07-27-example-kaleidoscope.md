@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: 鏡華錄示例
-category: 鏡華錄一
+category: 平安至室町
 publication-date: 2017-07-27 15:46
 rating: NC-17
 rating-note: 这里可以选填为什么这是NC-17
