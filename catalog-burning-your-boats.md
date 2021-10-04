@@ -6,7 +6,8 @@ toc:
 
 ---
 
-<div>請瀏覽，或者點擊左側邊欄中的主題跳動至目標。同一主題的文章以時間順序排列。</div>
+<div>Hetalia England/America
+卷一為國設，卷二為普設。</div>
 
 <div class="toc">
 
