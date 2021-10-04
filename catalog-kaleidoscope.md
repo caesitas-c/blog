@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 鏡華錄
-toc:
-- 鏡華錄一 
+toc: 平安至室町
+- 
 
 ---
 
