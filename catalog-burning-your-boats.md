@@ -6,8 +6,7 @@ toc:
 
 ---
 
-<div>Hetalia England/America
-卷一為國設，卷二為普設。</div>
+<div>Hetalia England/America。卷一為國設，卷二為普設。</div>
 
 <div class="toc">
 
