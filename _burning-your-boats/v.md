@@ -4,7 +4,7 @@ title: 櫻桃匣
 category: 焚舟紀一
 publication-date: 2021-10-04 23:15
 
-rating: NC-17
+rating: NC-15
 rating-note:
 abstract: "<li>07/04/1863</li>
 <li>史上最戲劇性的獨立日</li>"
