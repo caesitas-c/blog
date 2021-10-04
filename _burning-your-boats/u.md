@@ -4,7 +4,7 @@ title: 殺人短片/1939
 category: 焚舟紀一
 publication-date: 2021-10-04 23:15
 
-rating: NC-15
+rating: G
 rating-note:
 abstract: "<li>WWII序曲</li>
 <li>自本篇開始的8篇為我最甜的（⋯⋯）國設系列A Secular Age</li>"
