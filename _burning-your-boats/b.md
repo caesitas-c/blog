@@ -4,7 +4,7 @@ title: 風雨如晦
 category: 焚舟紀一
 publication-date: 2021-10-04 23:15
 
-rating: G
+rating: NC-15
 rating-note:
 abstract: "<li>是最後的結局</li>
 <li>到頭不過如此而已</li>"
