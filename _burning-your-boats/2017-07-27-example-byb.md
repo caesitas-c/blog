@@ -4,6 +4,11 @@ title: 情人
 category: UKS國設短篇
 publication-date: 2021-10-04 23:15
 
+rating: NC-15
+rating-note:
+abstract: "<li>16世紀至17世紀初</li>
+<li>藍花梗來自本家</li>"
+
 ---
 
 美国有一回忿忿不平地问英国，我为什么就非得跟你这个人渣在一起。英国捋着他的头发回答，你没得选。
