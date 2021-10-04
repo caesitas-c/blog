@@ -2,7 +2,7 @@
 layout: page
 title: 焚舟紀
 toc:
-- UKS國設短篇
+- 焚舟紀一
 
 ---
 
