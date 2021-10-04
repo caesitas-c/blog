@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 聞書抄
+title: 鏡華錄
 toc:
-- 聞
+- 鏡華錄一
 
 ---
 
