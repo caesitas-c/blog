@@ -1,12 +1,18 @@
 ---
 layout: narrative
-title: 分级内容示例
+title: 這是本頁面的標題，最好要寫
 category: 卷一
+comment: 這一行不會顯示在網頁上，因為comment在哪裡都沒有提及。category必須要填寫一個在_config中本分區里存在的分類，不然不會在除了首頁外的地方顯示。author和editor不寫，會自動顯示網站作者為作者。---以下是正文，主要用的是markdown語言（搜索一下有很多介紹！很方便簡單的。）有興趣可以再看看karmadown
+author: 這是本頁面作者的名字，可以整行刪去
+editor: 這是本頁面編輯的名字，可以整行刪去
 publication-date: 2017-07-27 15:46
-rating: NC-17
-rating-note: 这里可以选填为什么这是NC-17
-abstract: "<li>这里可以写几句话</li>
-<li>再写一行</li>"
+rating: 這是本頁面分級，可以整行刪去
+rating-note: 这里可以选填为什么这是NC-17，可以整行刪去
+abstract: "
+<li>这里可以写几句话</li>
+<li>再写一行</li>
+<center>可以使用各種html語言的花樣，需要的話得搜索一下</center>
+"
 
 ---
 
