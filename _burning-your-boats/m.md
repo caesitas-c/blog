@@ -4,7 +4,7 @@ title: 雨、笛與當歸
 category: 國設短篇
 publication-date: 2021-10-04 23:15
 
-rating: NC-15
+rating: PG-13
 rating-note:
 abstract: "<li>我若千歲也沒有這麼多回憶</li>
 <li>記2020年春的紐約</li>"
