@@ -4,7 +4,7 @@ title: 火柴與戒指
 category: 國設短篇
 publication-date: 2021-10-04 23:15
 
-rating: NC-17
+rating: G
 rating-note:
 abstract: "<li>kkl第一人稱</li>
 <li>很喪病的一篇，然而竟柳暗花明了</li>"
