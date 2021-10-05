@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 金與不返
+title: 金輿不返
 category: 國設短篇
 publication-date: 2021-10-04 23:15
 
