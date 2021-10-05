@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: 東方/1980
-category: 焚舟紀一
+category: 國設短篇
 publication-date: 2021-10-04 23:15
 
 rating: G
