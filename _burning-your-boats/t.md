@@ -4,7 +4,7 @@ title: 愛情短片/1941
 category: 國設短篇
 publication-date: 2021-10-04 23:15
 
-rating: NC-15
+rating: PG-13
 rating-note:
 abstract: "<li>本cp人都繞不開的追妻火葬場（？</li>
 <li>搞了一點好萊塢風味</li>"
