@@ -28,7 +28,7 @@ collections:
     output: true
     display: "古事談"
     category: 
-      - "魏晉" 
+      - "墓" 
       - "其他"
   burning-your-boats:
     output: true
