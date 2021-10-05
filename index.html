@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Drawing Room
+title: 會客室
 ---
 <div class="introduction">
-  <h1> Drawing Room </h1>
+  <h1> 會客室 </h1>
 
 <p>
   Would you like some tea or coffee?
@@ -13,20 +13,4 @@ title: Drawing Room
 <hr>
 
 <div class="toc">
-  <h2>最新的文章</h2>
-  <ul class="texts">
-    {% assign texts = site.documents | sort | reverse | slice: 0, 10 %}
-    {% for item in texts %}
-    {% if item.categories contains "hidden" %}
-    <!-- do nothing -->
-    {% else %}
-      <li class="text-title">
-        <a href="{{ site.baseurl }}{{ item.url }}">
-          {{ item.title }}
-        </a>
-        <span class="rating">{{ item.rating }}</span>
-      </li>
-    {% endif %}
-    {% endfor %}
-    </ul>
-</div>
+  
