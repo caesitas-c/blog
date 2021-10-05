@@ -4,7 +4,7 @@ title: 風雨如晦
 category: 國設短篇
 publication-date: 2021-10-04 23:15
 
-rating: NC-15
+rating: PG-13
 rating-note:
 abstract: "<li>是最後的結局</li>
 <li>到頭不過如此而已</li>"
