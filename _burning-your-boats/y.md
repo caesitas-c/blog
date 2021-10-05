@@ -4,7 +4,7 @@ title: 眼睛
 category: 國設短篇
 publication-date: 2021-10-04 23:15
 
-rating: NC-15
+rating: PG-13
 rating-note:
 abstract: "<li>18世紀中</li>
 <li>關於七年戰爭後的某種急轉直下</li>"
