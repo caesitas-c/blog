@@ -4,7 +4,7 @@ title: 伊萊克特拉情結/1956
 category: 國設短篇
 publication-date: 2021-10-04 23:15
 
-rating: NC-15
+rating: PG-13
 rating-note:
 abstract: "<li>蘇伊士運河事件</li>
 <li>即有的惡女迫害老公的著名事件</li>"
