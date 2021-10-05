@@ -2,11 +2,16 @@
 layout: page
 title: 焚舟紀
 toc:
-- 焚舟紀一
+- 國設短篇
+- 普設短篇
+- 睡美人
+- 柳樹園下
+- 活劇
+- 杜松子酒與金髮藍眼
 
 ---
 
-<div>Hetalia England/America。卷一為國設，卷二為普設。</div>
+<div>Hetalia England/America.</div>
 
 <div class="toc">
 
