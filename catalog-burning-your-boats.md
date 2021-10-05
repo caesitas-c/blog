@@ -11,7 +11,7 @@ toc:
 
 ---
 
-<div>Hetalia England/America.</div>
+<div>Hetalia England/America</div>
 
 <div class="toc">
 
