@@ -4,7 +4,7 @@ title: 櫻桃匣
 category: 國設短篇
 publication-date: 2021-10-04 23:15
 
-rating: NC-15
+rating: PG-13
 rating-note:
 abstract: "<li>07/04/1863</li>
 <li>史上最戲劇性的獨立日</li>"
