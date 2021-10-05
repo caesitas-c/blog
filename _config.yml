@@ -28,7 +28,7 @@ collections:
     output: true
     display: "古事談"
     category: 
-      - "三國魏晉" 
+      - "魏晉" 
       - "其他"
   burning-your-boats:
     output: true
