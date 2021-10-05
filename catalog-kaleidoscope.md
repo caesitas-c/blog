@@ -10,7 +10,7 @@ toc:
 
 ---
 
-<div>我流日系小美人學。</div>
+<div>世の中は地獄の上の花見哉</div>
 
 <div class="toc">
 
