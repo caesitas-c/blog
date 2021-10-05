@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: 世紀末之詩/1999
-category: 焚舟紀一
+category: 國設短篇
 publication-date: 2021-10-04 23:15
 
 rating: G
