@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: 伊萊克特拉情結/1956
-category: 焚舟紀一
+category: 國設短篇
 publication-date: 2021-10-04 23:15
 
 rating: NC-15
