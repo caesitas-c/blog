@@ -28,24 +28,34 @@ collections:
     output: true
     display: "古事談"
     category: 
-      - "原生示例" 
-      - "卷一"
+      - "三國魏晉" 
+      - "其他"
   burning-your-boats:
     output: true
     display: "焚舟紀"
     category: 
-      - "焚舟紀一" 
+      - "國設短篇" 
+      - "普設短篇" 
+      - "睡美人" 
+      - "柳樹園下" 
+      - "活劇" 
+      - "杜松子酒與金髮藍眼" 
   kikigakisyou:
     output: true
     display: "聞書抄"
     category: 
-      - "聞書抄一"
+      - "陀思妥耶夫斯基小說衍生"
+      - "其他"
   kaleidoscope:
     output: true
     display: "鏡華錄"
     category: 
-      - "鏡華錄一"
-  
+      - "平安至室町"
+      - "安土桃山"
+      - "幕末明治"
+      - "大正昭和"
+      - "平成及以後"
+
 # Markdown specs
 markdown: kramdown
 
