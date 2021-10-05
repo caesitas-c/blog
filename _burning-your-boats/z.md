@@ -4,7 +4,7 @@ title: 情人
 category: 國設短篇
 publication-date: 2021-10-04 23:15
 
-rating: NC-15
+rating: PG-13
 rating-note:
 abstract: "<li>17世紀至18世紀初</li>
 <li>藍花梗來自本家</li>"
