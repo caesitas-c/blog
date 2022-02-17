@@ -4,7 +4,7 @@ title: 活劇（三）
 category: 活劇
 publication-date: 2021-10-04 23:15
 
-rating: G
+rating: PG-13
 rating-note:
 abstract: "<li> 《Halfway to the Endlessness》完售解禁稿</li>
 <li> 1920s肯特郡某虚构山区虚构庄园背景，普设养父子，英第一人称。新大陆亲子与英伦兄弟关系涉及，加有和原创角色的BG线。半casebook fiction，主要角色全员死亡预警</li>"
