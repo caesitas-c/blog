@@ -62,6 +62,6 @@ abstract: "<li>米視角，分手後清理前男友的舊物（</li>
 fin.
  
  
-*六便士不止寓意幸运，还是传统英式婚礼必备物品之一："Something old, something new, something borrowed, something blue, and a silver sixpence in her shoe."
+*六便士不止寓意幸运，还是传统英式婚礼必备物品之一：“Something old, something new, something borrowed, something blue, and a silver sixpence in her shoe."
 
 **天启四骑士，通常被解释为象征瘟疫、战争、饥荒、死亡。
