@@ -2,7 +2,7 @@
 
 # Setup
 title:               末法時代
-tagline:             'We haven't had that spirit here since 1969.'
+tagline:             "We haven't had that spirit here since 1969."
 description:         'A private house of beauty and evil.'
 url:                 'https://caesitas-c.github.io'
 baseurl:             '/blog'
