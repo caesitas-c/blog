@@ -7,7 +7,7 @@ toc:
 
 ---
 
-<div>請瀏覽，或者點擊左側邊欄中的主題跳動至目標。同一主題的文章以時間順序排列。</div>
+<div>writing while reading</div>
 
 <div class="toc">
 
