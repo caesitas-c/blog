@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 白日留痕
+title: 長日留痕
 category: 國設短篇
 publication-date: 2021-10-04 23:15
 
