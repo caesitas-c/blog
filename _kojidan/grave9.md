@@ -1,4 +1,15 @@
-一、于我归息
+---
+layout: narrative
+title: 章一 於我歸息
+category: 墓
+publication-date: 2021-10-04 23:15
+
+rating: G
+rating-note:
+abstract: "<li>魏末系列群像</li>
+<li>創作於2011-2014年</li>"
+
+---
 
 司马师死在正元二年的初春。
 
