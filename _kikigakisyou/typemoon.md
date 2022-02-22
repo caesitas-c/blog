@@ -4,7 +4,7 @@ title: 雪中火事
 category: 其他
 publication-date: 2021-10-04 23:15
 
-rating: PG-13
+rating: R
 rating-note:
 abstract: "<li>蘭斯洛特/加拉哈德，卡姆蘭之戰後</li>
 <li>一個約稿，梗和設定均為金主提供，以型月世界觀為基礎，有參考《亞瑟王之死》</li>"
