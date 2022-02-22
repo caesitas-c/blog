@@ -4,7 +4,7 @@ title: 繽紛
 category: 其他
 publication-date: 2021-10-04 23:15
 
-rating: G
+rating: PG-13
 rating-note:
 abstract: "<li>司馬昭/夏侯玄</li>
 <li>也許是一種姐夫文學</li>"
