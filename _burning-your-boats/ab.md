@@ -1,3 +1,17 @@
+---
+layout: narrative
+title: A Letter to Canada
+category: 普設短篇
+publication-date: 2021-10-04 23:15
+
+rating: R
+rating-note:
+abstract: "<li>「末法時代」番外</li>
+<li>亞瑟死前致馬修的信</li>"
+
+——————
+
+
 亲爱的马修·威廉姆斯
 
 按地球上的纪年法，今日是公历二八三四年十一月的最末一个星期四，我正在麦哲伦星云边缘一架私人飞船的书房里给你写这封信。
