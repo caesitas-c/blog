@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: A Letter to Canada
-category: 普設短篇
+category: 國設短篇
 publication-date: 2021-10-04 23:15
 
 rating: R
