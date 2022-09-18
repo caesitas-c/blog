@@ -4,7 +4,7 @@ title: A Letter to Canada
 category: 國設短篇
 publication-date: 2021-10-04 23:15
 
-rating: R
+rating: G
 rating-note:
 abstract: "<li>「末法時代」番外</li>
 <li>亞瑟死前致馬修的信</li>"
