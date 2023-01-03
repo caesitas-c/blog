@@ -1,13 +1,13 @@
 ---
 layout: narrative
-title: A Psychiatric Record
+title: 一份精神診療紀錄
 category: 國設短篇
 publication-date: 2021-10-04 23:15
 
 rating: G
 rating-note:
 abstract: "<li>「末法時代」番外</li>
-<li>一份阿爾的手寫文稿</li>"
+<li>阿爾的手寫文稿</li>"
 
 ---
 
