@@ -6,7 +6,7 @@ publication-date: 2021-10-04 23:15
 
 rating: PG-13
 rating-note:
-abstract: "<li>1782巴黎和約定</li>
+abstract: "<li>1782巴黎和約</li>
 <li>字數18K，注意閱讀時間</li>"
 
 ---
