@@ -4,7 +4,7 @@ title: 六如偈
 category: 國設短篇
 publication-date: 2021-10-04 23:15
 
-rating: PG-13
+rating: R
 rating-note:
 abstract: "<li>1960一夜風流</li>
 <li>蘇伊士運河事件後的和解，藥物濫用與性解放的時代主題</li>"
