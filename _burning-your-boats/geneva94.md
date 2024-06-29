@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 杜松子酒與金髮藍眼（五）
+title: 杜松子酒與金髮藍眼（六）
 category: 杜松子酒與金髮藍眼
 publication-date: 2021-10-04 23:15
 
