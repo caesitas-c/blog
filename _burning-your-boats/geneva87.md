@@ -4,7 +4,7 @@ title: 杜松子酒與金髮藍眼（十三）
 category: 杜松子酒與金髮藍眼
 publication-date: 2021-10-04 23:15
 
-rating: NC-17
+rating: G
 rating-note:
 abstract: "<li>1930s-1950s，美國往事paro，黑幫au</li>
 <li>從禁酒令、大蕭條至post-WWII，一切還是要從養貓說起（x</li>"
