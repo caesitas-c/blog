@@ -1,5 +1,20 @@
+---
+layout: narrative
+title: 垂枝
+category: 其他
+publication-date: 2021-10-04 23:15
+
+rating: R
+rating-note:
+abstract: "<li>aph日米，太平洋戰爭日本勝利線的怪談故事</li>
+<li>設定和劇情來自tk老師</li>"
+
+---
+
 庭院莫栽垂杨柳，结交莫结轻薄儿。
+
 杨柳不耐秋风吹，轻薄易结还易离。
+
 杨柳逢春发新绿，轻薄永无再访时。
 
 一
